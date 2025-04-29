@@ -1,0 +1,23 @@
+[33mcommit 257272ebee8ec90f1a92b95303423fbfd72f12f9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: cb91ed0 52cbdbd
+Author: Navi Saada <navisaada@gmail.com>
+Date:   Tue Apr 29 18:52:21 2025 +0300
+
+    commit 12
+
+[1mdiff --cc git.sc[m
+[1mindex c4aca34,152b606..39f408f[m
+[1m--- a/git.sc[m
+[1m+++ b/git.sc[m
+[36m@@@ -4,9 -4,8 +4,9 @@@[m [mread -p "Hello what's your name: " nam[m
+  sleep 1[m
+  echo "Welcome $name !"[m
+  [m
+[31m- [m
+[31m -#feature branch[m
+[32m +#Main branch[m
+[32m+ #[m
+[32m +[m
+  REVERT[m
+  [m
+  RESET[m
