@@ -11,3 +11,5 @@ echo "Welcome $name !"
 #modif fetch
 
 #######
+
+commit
