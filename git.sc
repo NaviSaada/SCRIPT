@@ -6,4 +6,4 @@ echo "Welcome $name !"
 
 #feature branch
 
-REVERTTTTT
+REVERT
