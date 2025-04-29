@@ -2,6 +2,6 @@
 
 read -p "Hello what's your name: " name
 sleep 1
-echo "Welcome $name !"
 
-feature line
+line feature
+
