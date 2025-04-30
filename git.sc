@@ -11,9 +11,6 @@ echo "Welcome $name !"
 #modif fetch
 
 #######
-<<<<<<< HEAD
 
 commit
 mxdkd
-=======
->>>>>>> parent of 18db44b (Update git.sc commit)
