@@ -15,6 +15,6 @@ Sur leur [site internet](https://www.carrefour.fr/?msockid=3a43f2c8ecc662de0a26e
 
 ---
 '''bash
-jadore bash
+Jadore bash
 
 ####The End
