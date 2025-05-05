@@ -1,0 +1,13 @@
+#!/bin/bash 
+#MAIN BRANCH
+
+read -p "Tu sais pas?(yes/no) " rep
+if [ $rep = yes ]
+then
+echo Tu est con!
+elif [ $rep = no ] 
+then
+echo Bravo!
+else
+echo Error
+fi
