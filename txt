@@ -1,4 +1,4 @@
-FEATURE
+MAIN
 
 commit 1
 commit 2
@@ -14,5 +14,3 @@ commit 11
 commit 12
 commit 13
 commit 14
-commit 15
-
