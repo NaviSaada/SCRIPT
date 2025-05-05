@@ -1,4 +1,4 @@
-MAIN
+FEATURE
 
 commit 1
 commit 2
